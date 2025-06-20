@@ -28,7 +28,7 @@ It allows users to:
 
 ##  Screenshot
 
-![To-Do List Screenshot](mytodolistproject.png)
+![To-Do List Screenshot](mytodolistproject.PNG)
 
 ---
 
